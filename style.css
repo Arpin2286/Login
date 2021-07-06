@@ -1,0 +1,20 @@
+
+
+body{
+    background-color: rgb(177, 177, 177);
+}
+
+.row{
+    background-color: white;
+    border-radius: 50px;
+    box-shadow: 10px 10px 15px rgb(105, 104, 104);
+}
+
+img{
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+
+a:link{
+    text-decoration: none;
+}
